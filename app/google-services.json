@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1046428752441",
+    "firebase_url": "https://turkishbuttonnew.firebaseio.com",
+    "project_id": "turkishbuttonnew",
+    "storage_bucket": "turkishbuttonnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046428752441:android:ce7c0a840c07726c",
+        "android_client_info": {
+          "package_name": "com.safaak.turkishbutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046428752441-dteumii8imibq90fnskc6k8ukt0g3vks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.safaak.turkishbutton",
+            "certificate_hash": "e625fb5daa346662c92aec428b72a5219a1c627f"
+          }
+        },
+        {
+          "client_id": "1046428752441-jkoiedn7kd309bnmd5t5dbang6mh2ies.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk7bY45c4HG7TwnVIsTkztocm4cUluu7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046428752441-jkoiedn7kd309bnmd5t5dbang6mh2ies.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
